@@ -1,8 +1,13 @@
 # Zed154.github.io
-*magis!*
+## *Magis!* Welcome to my page
 
 ![image](https://user-images.githubusercontent.com/118245709/202087349-10ec164e-3054-4807-96c5-7b78e138a2fb.png)
 
-**El capitan**
+|----| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | 
+|---| Homeroom | Homeroom | Homeroom | Homeroom | Homeroom |
+| Break | Break | Break | Break | Break |
+| 1 | SCIENCE | PE | SCIENCE | ENGLISH | PE | 
+| 2 | Break | Break | Break | Break | Break |
+| 3 | SCIENCE | ENGLISH | SCIENCE | STUDY PERIOID | PE |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KOiYKZ5-pIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
