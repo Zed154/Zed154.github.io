@@ -25,7 +25,6 @@
  
 ## *Kind of bikes*
 ![image](https://user-images.githubusercontent.com/118245709/203222229-03fd50cb-f4eb-4b61-8c1f-a5f2a0fcf681.png)
-
 ### 1. **Fixie** 
 ![image](https://user-images.githubusercontent.com/118245709/203223446-ec186287-068f-401b-ba16-6acb6f49e1de.png)
 
