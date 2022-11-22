@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/118245709/202087349-10ec164e-3054-4807-96c5-7b78e138a2fb.png)
 
-| | | | SCHEDULE FOR NOVEMBER-DECEMBER | | |  
+| SCHEDULE FOR NOVEMBER-DECEMBER |  
 |---| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | 
 |---| Homeroom | Homeroom | Homeroom | Homeroom | Homeroom |
 |---| Break | Break | Break | Break | Break |
