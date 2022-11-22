@@ -23,9 +23,9 @@
 | 6 | --- | --- | --- | ENGLISH | SCIENCE |
 |---| ---| ---| ---| EXAMEN | EXAMEN |
  
+## *Kind of bikes*
+![image](https://user-images.githubusercontent.com/118245709/203222229-03fd50cb-f4eb-4b61-8c1f-a5f2a0fcf681.png)
 
+### 1. **Fixie** 
+![image](https://user-images.githubusercontent.com/118245709/203223446-ec186287-068f-401b-ba16-6acb6f49e1de.png)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/taeFh0QKf3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 
