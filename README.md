@@ -29,3 +29,8 @@
 ### 1. **Fixie** 
 ![image](https://user-images.githubusercontent.com/118245709/203223446-ec186287-068f-401b-ba16-6acb6f49e1de.png)
 
+*A single-gear bicycle that has no freewheel, so that its wheels cannot move unless power is applied to the pedals.*
+## 2. **Roadbike** 
+![image](https://user-images.githubusercontent.com/118245709/203223956-657ebfbe-06e5-4880-86d1-7fb893c53c00.png)
+
+*A bicycle for use on paved roads as opposed to rough terrain or racing tracks, especially one designed for competitive cycling.*
