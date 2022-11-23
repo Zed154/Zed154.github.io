@@ -26,7 +26,7 @@
 ## *Kind of bikes*
 ![image](https://user-images.githubusercontent.com/118245709/203222229-03fd50cb-f4eb-4b61-8c1f-a5f2a0fcf681.png)
 ### 1. **Fixie** 
-![image](https://user-images.githubusercontent.com/118245709/203472180-019249df-669a-4f48-8203-7d68516b7d6a.png)
+![image](https://user-images.githubusercontent.com/118245709/203472364-58824803-3ebc-4f0c-b92b-0b67470382d2.png)
 
 *A single-gear bicycle that has no freewheel, so that its wheels cannot move unless power is applied to the pedals.*
 ## 2. **Roadbike** 
